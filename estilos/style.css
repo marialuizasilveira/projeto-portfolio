@@ -272,6 +272,7 @@ footer a:hover{
     height: fit-content;
     position: sticky;
     top: 65px;
+    margin-bottom: 20px;
   }
 
   #detalhes{
